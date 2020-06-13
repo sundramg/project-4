@@ -1,0 +1,65 @@
+#banner_img
+		{   
+		padding-top:200px;
+		padding-bottom: 15%;
+		text-align: center;
+		color: #f8f8f8;
+		background: url(img/intro-bg_1.jpg) repeat center center;
+		background-size: 100% 110%;
+		margin-top: -20px;
+		}
+
+.container2     
+        {
+		 width:660px; margin:auto; overflow:hidden; background-color:rgba(0, 0, 0, 0.5);  height: 300px;
+        }
+        .jumbotron{
+        	margin-top: 75px;
+        }
+#banner_content
+			{
+				color: white; padding: 60px;font-size: 18px;margin: 8px;
+				
+
+			}
+footer
+ 	{
+ 	padding: 10px 20px;
+ 	background-color: black;
+ 	color: #9d9d9d;
+ 	bottom: 0;
+ 	width: 100%;
+ 	}		
+ 	.panel-primary{
+ 		margin-left: 25%;
+ 		width: 50%;
+ 	}
+ 	.jumbotron{margin-top:80px;}
+
+#login_footer{
+	margin-top: 62px;
+    padding: 10px;
+ 	background-color: black;
+ 	color: #9d9d9d;
+ 	width: 100%;
+ 	}	
+ 	#cart_footer{
+	margin-top: 380px;
+    padding: 10px;
+ 	background-color: black;
+ 	color: #9d9d9d;
+ 	width: 100%;
+ 	}		
+ 	#setting_footer{
+	margin-top: 75px;
+    padding: 10px;
+ 	background-color: black;
+ 	color: #9d9d9d;
+ 	width: 100%;
+ 	}			
+.table-striped{
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 10%;
+
+}
